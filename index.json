@@ -1,0 +1,12 @@
+{
+    "templates":[
+        {
+            "name":"javaMicroProfileTemplate",
+            "giturl":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate"
+        },
+        {
+            "name":"nodeExpressTemplate",
+            "giturl":"https://github.com/microclimate-dev2ops/nodeExpressTemplate"
+        }
+    ]   
+}
