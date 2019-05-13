@@ -2,10 +2,14 @@
     "templates":[
         {
             "name":"javaMicroProfileTemplate",
+            "description":"Template for building a MicroProfile/Java EE microcservice",
+            "language":"java",
             "giturl":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate"
         },
         {
             "name":"nodeExpressTemplate",
+            "description":"Cloud-ready Node.js Express sample application",
+            "language":"nodejs",
             "giturl":"https://github.com/microclimate-dev2ops/nodeExpressTemplate"
         }
     ]   
