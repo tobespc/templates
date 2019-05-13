@@ -2,15 +2,45 @@
     "templates":[
         {
             "name":"javaMicroProfileTemplate",
-            "description":"Template for building a MicroProfile/Java EE microcservice",
+            "extensionId", "https://github.com/microclimate-dev2ops/javaMicroProfileTemplate",
+            "description":"Template for building a MicroProfile / Java EE microcservice",
             "language":"java",
             "giturl":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate"
         },
         {
             "name":"nodeExpressTemplate",
+            "extensionId", "https://github.com/microclimate-dev2ops/nodeExpressTemplate",
             "description":"Cloud-ready Node.js Express sample application",
             "language":"nodejs",
             "giturl":"https://github.com/microclimate-dev2ops/nodeExpressTemplate"
+        },
+        {
+            "name":"springJavaTemplate",
+            "extensionId", "https://github.com/microclimate-dev2ops/springJavaTemplate",
+            "description":"Template for building a Spring microcservice",
+            "language":"java",
+            "giturl":"https://github.com/microclimate-dev2ops/springJavaTemplate"
+        },
+        {
+            "name":"swiftTemplate",
+            "extensionId", "https://github.com/microclimate-dev2ops/swiftJavaTemplate",
+            "description":"Template for building a Spring microcservice",
+            "language":"swift",
+            "giturl":"https://github.com/microclimate-dev2ops/swiftTemplate"
+        },
+        {
+            "name":"pythonTemplate",
+            "extensionId", "https://github.com/microclimate-dev2ops/SVTPythonTemplate",
+            "description":"HelloWorld microservice written in python",
+            "language":"python",
+            "giturl":"https://github.com/microclimate-dev2ops/SVTPythonTemplate"
+        },
+        {
+            "name":"templateGoExample",
+            "extensionId", "https://github.com/microclimate-dev2ops/microclimateGoTemplate",
+            "description":"Sample microservice for simple go app",
+            "language":"go",
+            "giturl":"https://github.com/microclimate-dev2ops/microclimateGoTemplate"
         }
     ]   
 }
